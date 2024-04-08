@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Radancy.Interviews.Banking.Sdet.Api.props" />
+</Project>

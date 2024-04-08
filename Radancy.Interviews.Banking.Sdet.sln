@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radancy.Interviews.Banking.Sdet.Api", "src\Radancy.Interviews.Banking.Sdet.Api\Radancy.Interviews.Banking.Sdet.Api.csproj", "{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Solution Items", "00-Solution Items", "{7C179662-2CA6-462C-90B8-03587CAD9AF0}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdetApiTestProject", "SdetApiTestProject\SdetApiTestProject.csproj", "{A8FD32CA-1038-4966-A8C3-6E397F6AC4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FD32CA-1038-4966-A8C3-6E397F6AC4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FD32CA-1038-4966-A8C3-6E397F6AC4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FD32CA-1038-4966-A8C3-6E397F6AC4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FD32CA-1038-4966-A8C3-6E397F6AC4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85DEDC49-BCF0-4EF7-BD95-32F950568AE0}
+	EndGlobalSection
+EndGlobal
