@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzBBcINoY/GiIBkJu/JPRthQ2f5KaAsslxlI2rW+E7kTmCuN60Ib+xWojHMcFe0BZvOC0rJlyTN457BRCP+HIA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\sdet-example\\SdetApiTest\\SdetApiTest.vbproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "xunit.runner.visualstudio"
+    }
+  ]
+}
